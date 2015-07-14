@@ -7,13 +7,13 @@ Primitives are the basic building blocks of JavaScript.
 - `null` - intentionally valueless
 - `undefined` - value has yet to be defined
 - `string`
-- `boolean -`true`and`false`
+- `boolean` -`true` and `false`
 - `number` - integer or float
 
 ## Variables
 - Variables function as containers for values.
 - Allow you to pass values around and refer to them with a set name.
-- The name should be meaningful and it must be unique that follow the JavaScript [naming conventions](http://www.w3schools.com/js/js_conventions.asp).
+- The name should be meaningful, unique, and it must follow the JavaScript [naming conventions](http://www.w3schools.com/js/js_conventions.asp).
 - Declaration syntax: `var varName = varValue`
 - Variables can have their values reassigned later with another assignment statement: `varName = newValue`
 
