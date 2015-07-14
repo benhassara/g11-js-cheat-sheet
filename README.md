@@ -1,4 +1,7 @@
 # JavaScript Cheat Sheet
+
+> Last updated: 07/14/2015
+
 ## Primitives
 Primitives are the basic building blocks of JavaScript.
 - `null` - intentionally valueless
@@ -142,13 +145,13 @@ Primitives are the basic building blocks of JavaScript.
   var someVar = 0;
   console.log(someVar);
   >> 0
-  
+
   function myFunction() {
     //hoisting
     someVar = "cat";
     return "No problems here. Move along, move along."
   }
-  
+
   myFunction();
   console.log(someVar);
   >> cat
